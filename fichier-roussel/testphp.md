@@ -8,4 +8,8 @@ date : 08/10/2026
 
 L'erreur 404 veut dire que la page web a était modifier, supprimé ou l'adresse n'est pas la bonne.
 
+# Conclusion: 
+
+il faut soit soit corrigé l'url, soit déplacer le fichier du site.
+
 Auteur : Yanis Dahmane
